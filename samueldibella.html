@@ -1,0 +1,122 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+
+		<style type="text/css">
+/* <![CDATA[ */
+body {
+ background:#fff;
+ color:#000;
+ margin:0 0 0 0pt;
+ font-family:Liberation Sans, sans-serif;
+ font-size:16pt;
+}
+
+#buffer {
+  position: relative;
+  width: 50%;
+  top: 40px;
+  left: 40px;
+}
+
+
+a {
+ color:#117;
+ text-decoration:none;
+}
+
+#menu {
+	background: #199;
+	color: #fff;
+	top: 0;
+	height: 50px;
+	width: 100%;
+	padding-left: 20px;
+	padding-top: 20px;
+  position: fixed;
+}
+
+div.button {
+  position: relative;
+  left: 10px;
+  padding-left: 20px;
+  display: inline;
+  -webkit-user-select: none; //chrome/safari
+  -moz-user-select: none; //firefox
+  -ms-user-select: none; //IE10
+}
+div.button:hover{
+  text-decoration: underline;
+}
+div.button:active{
+  text-decoration: underline;
+  color: #ccc;
+}
+
+#main {
+ padding-top: 60px;
+ width:100%;
+}
+/* ]]> */
+
+		</style>
+
+		<script type="text/javascript">
+      function about() {
+        text = "About";
+        updatePage(text);
+      }
+
+      function writing() {
+        text = "WRITE";
+        updatePage(text);
+      }
+
+      function design() {
+        text = "DESIGN";
+        updatePage(text);
+      }
+
+      function resume() {
+        text = "RESUME";
+        updatePage(text);
+      }
+
+      function contact() {
+        text = "CONTACT";
+        updatePage(text);
+      }
+
+      function updatePage(newText) {
+        var div, buffer = document.getElementById('buffer');
+
+        div = document.createElement('div');
+        div.innerHTML = newText;
+
+        buffer.removeChild(document.getElementById('buffer'.firstChild));
+        buffer.appendChild(div);
+      }
+		</script>
+
+		<title>Samuel DiBella </title>
+	</head>
+
+	<body>
+		<div id="menu">Samuel DiBella —
+      <div class="button" onclick="about">About</div>
+      <div class="button" onclick="writing">Writing</div>
+      <div class="button" onclick="design">Design</div>
+      <div class="button" onclick="resume">Resume</div>
+      <div class="button" onclick="contact">Contact</div>
+    </div>
+
+		<div id="main">
+      <div id="buffer">
+        <div>Hello, I am Sam.</div>
+      </div>
+    </div>
+	</body>
+</html>
