@@ -38,10 +38,12 @@ a :hover {
 	background: #199;
 	color: #fff;
 	top: 0;
+  font-size: 24pt;
 	height: 50px;
 	width: 100%;
 	padding-left: 30px;
 	padding-top: 25px;
+  padding-bottom: 15px;
   position: fixed;
 }
 
@@ -70,6 +72,7 @@ div.button :active{
 }
 
 div.section {
+  display: flex;
   padding-top: 80px;
   padding-left: 60px;
   width: 60%;
@@ -82,6 +85,7 @@ div.sectiontext {
 }
 
 div.sectionlink {
+  color: #199;
   display: inline; //not proud of this
 }
 div.sectionlink :hover{
@@ -157,7 +161,7 @@ div.sectionlink :hover{
 	</head>
 
 	<body onload="about()">
-		<div id="menu">Samuel DiBella —
+		<div id="menu">Samuel DiBella &nbsp;&nbsp;&nbsp;&nbsp;—
       <div class="button"><a href="#about" onclick="smoothScroll('about')">About</a></div>
       <div class="button"><a href="#analog" onclick="smoothScroll('analog')"> Analog</a></div>
       <div class="button"><a href="#digital" onclick="smoothScroll('digital')">Digital</a></div>
@@ -166,13 +170,20 @@ div.sectionlink :hover{
     </div>
 
 		<div id="main">
-      <div class="section" id="about">About</div>
-      <div class="sectiontext">I'm a recent college grad, looking for design and editorial work. I studied Formal Semantics at NYU, with a minor in Game Design. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam nulla ante, tempus et tellus vitae, tincidunt suscipit justo. Sed aliquet nisi nec lorem fringilla aliquam. Morbi mattis dignissim mattis. Fusce fringilla tempor congue.</div>
+      <div class="section" id="about"><br/>About</div>
+      <div class="sectiontext">I'm an editor and designer/coder, trying to apply my esoteric interests (formal logic, game design, language) in places that they don't belong.
+      <ul><i>Things I Am Doing/Did Recently</i>
+        <li>Designing an imagined <a href="materials/SD_reckoning_6_21.pdf"><div class="sectionlink">Renaissance-styled modern magazine</div></a> with InDesign</li>
+        <li>Unconfirmed rumors of a radiation-based board game</li>
+        <li>Completed editorial internship with <a href="http://canopycanopycanopy.com"><div class="sectionlink">Triple Canopy</div></a></li>
+        <li>Published <a href="http://canopycanopycanopy.com/issues/19/contents/dont-you-want-to-have-a-body"><div class="sectionlink">chatbot</div></a> on Triple Canopy website</li>
+      </ul>
+      </div>
 
       <div class="section" id="analog">Analog</div>
         <div class="sectiontext"><i>Academic Essays</i><br />
         <a href="materials/SD_CSandMemory.doc"><div class="sectionlink">Objects as Organization: CS & the Art of Memory</div></a>
-        — comparison of modern Object Oriented programming paradigm and medieval art of mnemonics, Spring 2014.<br /> <br />
+        — comparison of modern Object Oriented programming paradigm and medieval art of mnemonics, Spring 2014<br /> <br />
         <a href="materials/SD_BifocalVisionsOfPushkin.doc"><div class="sectionlink">Bifocal Visions of Poetry in Pushkin</div></a> — brief exploration of the poetic personae of employed by Pushkin, Fall 2014<br /> <br />
         <i>Creative Writing</i> <br />
         <a href="http://issuu.com/nyubaedeker/docs/baedeker_final_fall_2013/15"><div class="sectionlink">Monoliths and Mazes</div></a> — travel writing meditation on Berlin architectural features published in NYU Baedeker Magazine, Fall 2013<br /> <br />
@@ -184,11 +195,11 @@ div.sectionlink :hover{
 
       <div class="section" id="digital">Digital</div>
         <div class="sectiontext"><i>Code</i><br/>
-        <a href="http://canopycanopycanopy.com/issues/19/contents/dont-you-want-to-have-a-body"><div class="sectionlink">Provan</div></a> — A chatbot I developed to be published alongside the Triple Canopy article "Don't You Want a Body?" <br /> <br />
-        <a href="materials/samueldibella_coverletter_test.html"><div class="sectionlink">Cover Letters</div></a> — a short genre experiment I built during Nick Montford's Shebang workshop at Babycastles Spring 2015.</div>
+        <a href="http://canopycanopycanopy.com/issues/19/contents/dont-you-want-to-have-a-body"><div class="sectionlink">Provan</div></a> — An AIML chatbot I developed to be published alongside the Triple Canopy article "Don't You Want a Body?" Spring 2015 <br /> <br />
+        <a href="materials/samueldibella_coverletter_test.html"><div class="sectionlink">Cover Letters</div></a> — a short genre experiment I built during Nick Montford's Shebang workshop at Babycastles, Spring 2015</div>
 
       <div class="section" id="resume">
-          <a href="materials/samuelDiBella_7_2015.pdf">Resume</a></div>
+          <a href="materials/samuelDiBella_7_2015.pdf"><div class="sectionlink">Resume</div></a></div>
         <div class="sectiontext">  Updated 7/21/2015</div>
 
       <div class="section" id="contact">Contact Information</div>
@@ -199,6 +210,7 @@ div.sectionlink :hover{
 
       <!-- gross -->
       <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+      
     </div>
 	</body>
 </html>
