@@ -56,7 +56,7 @@ div.button {
   display: inline;
   -webkit-user-select: none; //chrome/safari
   -moz-user-select: none; //firefox
-  -ms-user-select: none; //IE10
+  -ms-user-select: none;
 }
 div.button :hover{
   text-decoration: underline;
@@ -80,11 +80,12 @@ div.sectiontext {
   padding-left: 115px;
   width: 600px;
 }
-div.sectiontext a {
 
+div.sectionlink {
+  display: inline; //not proud of this
 }
-div.sectiontext a :hover{
-
+div.sectionlink :hover{
+  text-decoration: underline;
 }
 
 #about {
@@ -170,29 +171,30 @@ div.sectiontext a :hover{
 
       <div class="section" id="analog">Analog</div>
         <div class="sectiontext"><i>Academic Essays</i><br />
-        <a href="ObjectsAsOrganizationCS&Memory.doc">Objects as Organization: CS & the Art of Memory</a> — comparison of modern Object Oriented programming paradigm and medieval art of mnemonics, Spring 2014.<br /> <br />
-        <a href="Pushkin_Prophecy.doc">Bifocal Visions of Poetry in Pushkin </a>— brief exploration of the poetic personae of employed by Pushkin, Fall 2014<br /> <br />
+        <a href="materials/SD_CSandMemory.doc"><div class="sectionlink">Objects as Organization: CS & the Art of Memory</div></a>
+        — comparison of modern Object Oriented programming paradigm and medieval art of mnemonics, Spring 2014.<br /> <br />
+        <a href="materials/SD_BifocalVisionsOfPushkin.doc"><div class="sectionlink">Bifocal Visions of Poetry in Pushkin</div></a> — brief exploration of the poetic personae of employed by Pushkin, Fall 2014<br /> <br />
         <i>Creative Writing</i> <br />
-         <a href="http://issuu.com/nyubaedeker/docs/baedeker_final_fall_2013/15">Monoliths and Mazes</a> — travel writing meditation on Berlin architectural features published in NYU Baedeker Magazine, Fall 2013<br /> <br />
+        <a href="http://issuu.com/nyubaedeker/docs/baedeker_final_fall_2013/15"><div class="sectionlink">Monoliths and Mazes</div></a> — travel writing meditation on Berlin architectural features published in NYU Baedeker Magazine, Fall 2013<br /> <br />
 
-        <a href="samuel_dibella_3.doc">Reversals</a> — short stanza poem published in the Gallatin Review, Spring 2013 <br /> <br />
+        <a href="materials/SD_Reversals.doc"><div class="sectionlink">Reversals</div></a> — short stanza poem published in the Gallatin Review, Spring 2013 <br /> <br />
 
-        <a href="sdibella_hungryrains.doc">Hungry Rains</a> — published in the Headless Society's Guillotine magazine, Winter 2012<br /> <br /></div>
+        <a href="materials/SD_HungryRains.doc"><div class="sectionlink">Hungry Rains</div></a> — published in the Headless Society's Guillotine magazine, Winter 2012<br /> <br /></div>
 
 
       <div class="section" id="digital">Digital</div>
         <div class="sectiontext"><i>Code</i><br/>
-        <a href="http://canopycanopycanopy.com/issues/19/contents/dont-you-want-to-have-a-body">Provan</a> — A chatbot I developed to be published alongside the Triple Canopy article "Don't You Want a Body?" <br /> <br />
-        <a href="samueldibella_coverletter_test.html">Cover Letters</a> — a short genre experiment I built during Nick Montford's Shebang workshop at Babycastles Spring 2015.</div>
+        <a href="http://canopycanopycanopy.com/issues/19/contents/dont-you-want-to-have-a-body"><div class="sectionlink">Provan</div></a> — A chatbot I developed to be published alongside the Triple Canopy article "Don't You Want a Body?" <br /> <br />
+        <a href="materials/samueldibella_coverletter_test.html"><div class="sectionlink">Cover Letters</div></a> — a short genre experiment I built during Nick Montford's Shebang workshop at Babycastles Spring 2015.</div>
 
       <div class="section" id="resume">
-          <a href="samuelDiBella_7_2015.pdf">Resume</a></div>
+          <a href="materials/samuelDiBella_7_2015.pdf">Resume</a></div>
         <div class="sectiontext">  Updated 7/21/2015</div>
 
       <div class="section" id="contact">Contact Information</div>
-        <div class="sectiontext"> <a href="mailto:samuel.dibella@gmail.com">samuel.dibella@gmail.com</a>
-        <br /> <a href="https://github.com/samueldibella">github.com/samueldibella</a>
-        <br /><a href="https://twitter.com/prolixpost">@prolixpost</a></div>
+        <div class="sectiontext"> <a href="mailto:samuel.dibella@gmail.com"><div class="sectionlink">samuel.dibella@gmail.com</div></a>
+        <br /> <a href="https://github.com/samueldibella"><div class="sectionlink">github.com/samueldibella</div></a>
+        <br /><a href="https://twitter.com/prolixpost"><div class="sectionlink">@prolixpost</div></a></div>
       <div class="section"></div>
 
       <!-- gross -->
