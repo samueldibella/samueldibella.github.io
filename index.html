@@ -11,20 +11,27 @@ body {
  background:#fff;
  color:#000;
  margin:0 0 0 0pt;
- font-family:Liberation Sans, sans-serif;
+ font-family: Liberation Sans, sans-serif;
  font-size:16pt;
 }
 
-#main {
- padding-top: 100px;
- width:100%;
+a {
+  color: #000;
+  margin:0 0 0 0pt;
+  font-family:Liberation Sans, sans-serif;
+  font-size:16pt;
+  text-decoration: none;
+}
+a :hover {
+  text-decoration: underline !important;
+}
+a :active{
+  text-decoration: underline;
+  color: #ccc;
 }
 
-#buffer {
-  position: relative;
-  width: 50%;
-  top: 40px;
-  left: 40px;
+#main {
+ width:100%;
 }
 
 #menu {
@@ -33,9 +40,13 @@ body {
 	top: 0;
 	height: 50px;
 	width: 100%;
-	padding-left: 20px;
-	padding-top: 20px;
+	padding-left: 30px;
+	padding-top: 25px;
   position: fixed;
+}
+
+.button a{
+  color: #fff;
 }
 
 div.button {
@@ -51,70 +62,36 @@ div.button {
   -moz-user-select: none; //firefox
   -ms-user-select: none; //IE10
 }
-div.button:hover{
+div.button :hover{
   text-decoration: underline;
 }
-div.button:active{
-  text-decoration: underline;
-  color: #ccc;
-}
-
-div.bodylink {
-  color:#fff;
-  margin:0 0 0 0pt;
-  font-family:Liberation Sans, sans-serif;
-  font-size:16pt;
-  display: inline;
-  -webkit-user-select: none; //chrome/safari
-  -moz-user-select: none; //firefox
-  -ms-user-select: none; //IE10
-}
-div.bodylink:hover{
-  text-decoration: underline;
-}
-div.bodylink:active{
+div.button :active{
   text-decoration: underline;
   color: #ccc;
 }
 
 div.section {
+  padding-top: 80px;
   padding-left: 60px;
+  width: 60%;
+  font-weight: bold;
+}
+div.sectiontext {
+  padding-top: 20px;
+  padding-left: 115px;
   width: 60%;
 }
 
-a {
-  color:#fff;
-  margin:0 0 0 0pt;
-  font-family:Liberation Sans, sans-serif;
-  font-size:16pt;
-  text-decoration: none;
-}
-a :hover {
-  text-decoration: underline;
-}
-a :active{
-  text-decoration: underline;
-  color: #ccc;
-}
-
-a.body {
-  color: #000;
-}
-
 #about {
-
 }
 #analog {
-
 }
 #digital {
-
 }
-#resume {
-
+#resume :hover{
+  text-decoration: underline;
 }
 #contact {
-
 }
 /* ]]> */
 </style>
@@ -183,16 +160,11 @@ a.body {
     </div>
 
 		<div id="main">
-      <div class="section"> Text about the text that I am texting. </div>
-      <div class="section" id="about">
-        <br/>  <br/>  <br/> <!-- because I'm slightly lazy -->
-        <strong>About</strong><br/>
-        I'm a recent college grad, looking for design and editorial work. I studied Formal Semantics at NYU, with a minor in Game Design. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam nulla ante, tempus et tellus vitae, tincidunt suscipit justo. Sed aliquet nisi nec lorem fringilla aliquam. Morbi mattis dignissim mattis. Fusce fringilla tempor congue.</div>
+      <div class="section" id="about">About</div>
+      <div class="sectiontext">I'm a recent college grad, looking for design and editorial work. I studied Formal Semantics at NYU, with a minor in Game Design. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam nulla ante, tempus et tellus vitae, tincidunt suscipit justo. Sed aliquet nisi nec lorem fringilla aliquam. Morbi mattis dignissim mattis. Fusce fringilla tempor congue.</div>
 
-      <div class="section" id="analog">
-        <br/>  <br/>  <br/>
-        <strong>Analog</strong><br/>
-        <i>Academic Essays</i><br />
+      <div class="section" id="analog">Analog</div>
+        <div class="sectiontext"><i>Academic Essays</i><br />
         Computer Science & Object Oriented Memory — Written for a Medieval Studies class Spring 2014.<br /> <br />
         Double Visions of Pushkin — brief exploration of poetic persona of Pushkin, Fall 2014<br /> <br />
         <i>Poetry</i> <br />
@@ -201,25 +173,23 @@ a.body {
         Headless piece — <br /> <br />
         Thing thing — thing! </div>
 
-      <div class="section" id="digital">
-        <br/>  <br/>  <br/>
-        <strong>Digital</strong><br />
-        <i>Code</i><br/>
+      <div class="section" id="digital">Digital</div>
+        <div class="sectiontext"><i>Code</i><br/>
         link — A chatbot I developed to be published alongside the Triple Canopy article \"Don't You Want a Body?\" <br /> <br />
         <a href=\"https://dl.dropboxusercontent.com/u/114906507/website/samueldibella_coverletter_test.html\"></a> — a short genre experiment I built during Nick Montford's Shebang workshop at Babycastles Spring 2015.</div>
 
       <div class="section" id="resume">
-        <br/>  <br/>  <br/> <a href="https://dl.dropboxusercontent.com/u/114906507/website/samueldibella_7_2015_resume.pdf">Resume</a></div>
+          <a href="https://dl.dropboxusercontent.com/u/114906507/website/samueldibella_7_2015_resume.pdf">Resume</a></div>
+        <div class="sectiontext">  Updated 7/21/2015</div>
 
-      <div class="section" id="contact">
-        <br/>  <br/>  <br/>
-        <strong>Contact Information</strong>
-        <br /> samuel.dibella@gmail.com
+      <div class="section" id="contact">Contact Information</div>
+        <div class="sectiontext"> samuel.dibella@gmail.com
         <br /> github.com/thepostalworker
         <br />@prolixpost</div>
       <div class="section"></div>
 
-      <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+      <!-- gross -->
+      <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
     </div>
 	</body>
 </html>
