@@ -15,108 +15,73 @@
     margin:0 0 0 0pt;
     font-family: Alegreya, serif;
     font-size:16pt;
-    line-height: 125%;
+    line-height: 130%;
+  }
+
+  .section {
+    /*background-color: #12a1a1;*/
+    padding-top: 20px;
+    padding-left: 60px;
+    width: 70%;
+    font-size: 20pt;
+    font-family: Alegreya Sans, sans-serif;
+    color: #14b8b8;
+  }
+  .sectiontext {
+    padding-top: 10px;
+    padding-left: 60px;
+    width: 70%;
   }
 
   a {
-    color: #199;
+    color: #14b8b8;
     margin:0 0 0 0pt;
     font-family: Alegreya Sans, sans-serif;
-    font-size:16pt;
+    font-size:14pt;
     text-decoration: none;
   }
-  a :active{
-    text-decoration: underline;
-    color: #fff;
+  a:hover {
+    border-bottom: 3px #14b8b8 dotted;
   }
-  a :hover {
+  a.section{
+    font-size: 20pt;
+  }
+  a.section:hover{
+    border-bottome: none;
     text-decoration: underline;
   }
 
+
   #menu {
-    background: #119999;
+    background: #17cfcf;
     color: #0d7373;
-    font-size: 24pt;
+    font-size: 36pt;
     height: 50px;
     width: 100%;
     padding-bottom: 10px;
     padding-top: 30px;
-    padding-left: 10%;
-    margin-left: auto;
-    margin-right: auto;
+    padding-left: 60px;
     position: fixed;
-
   }
 
   #board {
-    width: 2000px;
+    width: 100%;
   }
 
   .panel {
     background: #0d7373;
-    width: 900px;
-    height: 1100px;
+    width: 50%;
+    height: 850px;
     float: left;
     display: inline;
-    padding-top: 50px;
-    width: 40%;
+    padding-top: 100px;
+    margin-left: auto;
+    overflow: hidden;
+    border-bottom: 2px solid #17cfcf;
   }
 
-  /*div.button {
-  color:#fff;
-  margin:0 0 0 0pt;
-  font-family: Alegreya Sans, sans-serif;
-  font-size:16pt;
-  position: relative;
-  left: 10px;
-  padding-left: 20px;
-  display: inline;
-  -webkit-user-select: none; //chrome/safari
-  -moz-user-select: none; //firefox
-  -ms-user-select: none;
-}
-div.button :hover{
-text-decoration: underline;
-}
-div.button :active{
-text-decoration: underline;
-color: #ccc;
-}
-.button a{
-color: #FFFFF0;
-}*/
 
-div.section {
-  padding-top: 80px;
-  padding-left: 100px;
-  width: 60%;
-  font-weight: bold;
-}
-div.sectiontext {
-  padding-top: 20px;
-  padding-left: 100px;
-  width: 600px;
-}
 
-.sectionlink {
-  color: #199;
-  display: inline; //not proud of this
-}
-.sectionlink :hover{
-  text-decoration: underline;
-}
-
-#about {
-}
-#analog {
-}
-#digital {
-}
-#resume :hover{
-  text-decoration: underline;
-}
-#contact {
-}
 /* ]]> */
 </style>
 
@@ -126,6 +91,7 @@ div.sectiontext {
 
   <div id="menu">Samuel DiBella</div>
   <div id="board">
+    <!--left col-->
     <div class="panel">
       <div class="section">About</div>
       <div class="sectiontext">I'm an editor and designer/coder, trying to apply my interests (formal logic, game design, language) in places that could use them.
@@ -137,26 +103,27 @@ div.sectiontext {
 
       <div class="section">Digital</div>
       <div class="sectiontext"><i>Code</i><br/>
-        <a href="http://canopycanopycanopy.com/issues/19/contents/dont-you-want-to-have-a-body">Provan</a> – An AIML chatbot I developed to be published alongside the Triple Canopy article "Don't You Want a Body?" Spring 2015 <br /> <br />
-        <a href="materials/samueldibella_coverletter_test.html">Cover Letters</a> – a short genre experiment I built during Nick Montford's Shebang workshop at Babycastles, Spring 2015</div>
+        <a href="http://canopycanopycanopy.com/issues/19/contents/dont-you-want-to-have-a-body">Provan</a> – An AIML chatbot I developed to be published alongside the Triple Canopy article “Don’t You Want a Body?” Spring 2015 <br /> <br />
+        <a href="materials/samueldibella_coverletter_test.html">Cover Letters</a> – a short genre experiment I built during Nick Montford’s Shebang workshop at Babycastles, Spring 2015
+      </div>
 
-        <div class="section">
-          <a href="materials/samuelDiBella_resume.pdf">Resume</a></div>
-          <div class="sectiontext">Updated 10/17/2015</div>
+      <div class="section">Resume</div>
+        <div class="sectiontext"><a href="materials/samuelDiBella_resume.pdf">PDF</a> – Updated 10/17/2015</div>
 
-          <div class="section">Contact Information</div>
-          <div class="sectiontext">
-            <a href="mailto:samuel.dibella@gmail.com">samuel.dibella@gmail.com</a>
-            <br /><a href="https://github.com/samueldibella">github.com/samueldibella</a>
-            <br /><a href="https://twitter.com/prolixpost">@prolixpost</a>
-          </div>
+        <div class="section">Contact Information</div>
+        <div class="sectiontext">
+          <a href="mailto:samuel.dibella@gmail.com">samuel.dibella@gmail.com</a>
+          <br /><a href="https://github.com/samueldibella">github.com/samueldibella</a>
+          <br /><a href="https://twitter.com/prolixpost">@prolixpost</a>
         </div>
+      </div>
 
+        <!--right col-->
         <div class="panel">
           <div class="section">Analog</div>
           <div class="sectiontext"><i>Design</i><br />
-            Criterion Group Brochure (<a href="materials/brochure.pdf">1, </a><a href="materials/p3brochure.pdf">2</a>)
-            – Company identity brochure designed for a Queens real estate developer.
+            Criterion Group Brochure (<a href="materials/brochure.pdf">1</a>, <a href="materials/p3brochure.pdf">2</a>)
+            – company identity brochure designed for a Queens real estate developer.
             <br /><br />
           </div>
           <div class="sectiontext"><i>Academic Essays</i><br />
@@ -175,7 +142,7 @@ div.sectiontext {
             <a href="materials/SD_HungryRains.doc">Hungry Rains</a> – published in the Headless Society's Guillotine magazine, Winter 2012
           </div>
 
-        </div> //panel end
-      </div> //board
+        </div> <!--panel end-->
+      </div> <!--board-->
     </body>
     </html>
