@@ -1,62 +1,69 @@
-
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-	<head>
-    <link rel="icon" type="image/png" href="favicon-32x32.png" sizes="32x32" />
-    <link rel="icon" type="image/png" href="favicon-16x16.png" sizes="16x16" />
-		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<head>
+  <link rel="icon" type="image/png" href="favicon-32x32.png" sizes="32x32" />
+  <link rel="icon" type="image/png" href="favicon-16x16.png" sizes="16x16" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 
-		<style type="text/css">
-/* <![CDATA[ */
+  <style type="text/css">
+  /* <![CDATA[ */
 
-body {
- background:#199;
- color:#000;
- margin:0 0 0 0pt;
- font-family: Alegreya Sans, sans-serif;
- font-size:16pt;
-}
+  body {
+    background:#0d7373;
+    color:#000;
+    margin:0 0 0 0pt;
+    font-family: Alegreya, serif;
+    font-size:16pt;
+    line-height: 125%;
+  }
 
-a {
-  color: #000;
-  margin:0 0 0 0pt;
-  font-family: Alegreya Sans, sans-serif;
-  font-size:16pt;
-  text-decoration: none;
-}
-a :active{
-  text-decoration: underline;
-  color: #ccc;
-}
-a :hover {
-  text-decoration: underline;
-}
+  a {
+    color: #199;
+    margin:0 0 0 0pt;
+    font-family: Alegreya Sans, sans-serif;
+    font-size:16pt;
+    text-decoration: none;
+  }
+  a :active{
+    text-decoration: underline;
+    color: #fff;
+  }
+  a :hover {
+    text-decoration: underline;
+  }
 
-#main {
-  background: #FFFFF0;
-  width: 850px;
-  height: 2200px;
-  margin-left: auto;
-  margin-right: auto;
-}
+  #menu {
+    background: #119999;
+    color: #0d7373;
+    font-size: 24pt;
+    height: 50px;
+    width: 100%;
+    padding-bottom: 10px;
+    padding-top: 30px;
+    padding-left: 10%;
+    margin-left: auto;
+    margin-right: auto;
+    position: fixed;
 
-#menu {
-	background: #199;
-	color: #fff;
-  font-size: 24pt;
-	height: 50px;
-	width: 100%;
-  padding-bottom: 15px;
-  padding-top: 15px;
-  padding-left: 10%;
-  margin-left: auto;
-  margin-right: auto;
-  position: fixed;
-}
+  }
 
-div.button {
-  color:#FFFFF0;
+  #board {
+    width: 2000px;
+  }
+
+  .panel {
+    background: #0d7373;
+    width: 900px;
+    height: 1100px;
+    float: left;
+    display: inline;
+    padding-top: 50px;
+    width: 40%;
+  }
+
+  /*div.button {
+  color:#fff;
   margin:0 0 0 0pt;
   font-family: Alegreya Sans, sans-serif;
   font-size:16pt;
@@ -69,18 +76,17 @@ div.button {
   -ms-user-select: none;
 }
 div.button :hover{
-  text-decoration: underline;
+text-decoration: underline;
 }
 div.button :active{
-  text-decoration: underline;
-  color: #ccc;
+text-decoration: underline;
+color: #ccc;
 }
 .button a{
-  color: #FFFFF0;
-}
+color: #FFFFF0;
+}*/
 
 div.section {
-  display: flex;
   padding-top: 80px;
   padding-left: 100px;
   width: 60%;
@@ -88,15 +94,15 @@ div.section {
 }
 div.sectiontext {
   padding-top: 20px;
-  padding-left: 160px;
+  padding-left: 100px;
   width: 600px;
 }
 
-div.sectionlink {
+.sectionlink {
   color: #199;
   display: inline; //not proud of this
 }
-div.sectionlink :hover{
+.sectionlink :hover{
   text-decoration: underline;
 }
 
@@ -114,123 +120,62 @@ div.sectionlink :hover{
 /* ]]> */
 </style>
 
-		<script type="text/javascript">
-    //functions lightly modified from https://stackoverflow.com/questions/17722497/scroll-smoothly-to-specific-element-on-page, which includes reference that: " itnewb.com. The techniques, effects and code demonstrated in ITNewb articles may be used for any purpose without attribution (although we recommend it) (2014-01-12)"
+<title>Samuel DiBella </title>
+</head>
+<body onload="about()">
 
-    function currentYPosition() {
-      // Firefox, Chrome, Opera, Safari
-      if (self.pageYOffset) return self.pageYOffset;
-      // Internet Explorer 6 - standards mode
-      if (document.documentElement && document.documentElement.scrollTop)
-      return document.documentElement.scrollTop;
-      // Internet Explorer 6, 7 and 8
-      if (document.body.scrollTop) return document.body.scrollTop;
-      return 0;
-    }
-
-    function elmYPosition(eID) {
-      var elm = document.getElementById(eID);
-      var y = elm.offsetTop;
-      var node = elm;
-      while (node.offsetParent && node.offsetParent != document.body) {
-        node = node.offsetParent;
-        y += node.offsetTop;
-      } return y;
-    }
-
-    function smoothScroll(eID) {
-      var startY = currentYPosition();
-      var stopY = elmYPosition(eID);
-      var distance = stopY > startY ? stopY - startY : startY - stopY;
-      if (distance < 100) {
-        scrollTo(0, stopY); return;
-      }
-
-      var speed = Math.round(distance / 100);
-      if (speed >= 20) speed = 20;
-      var step = Math.round(distance / 25);
-      var leapY = stopY > startY ? startY + step : startY - step;
-      var timer = 0;
-      if (stopY > startY) {
-        for ( var i=startY; i<stopY; i+=step ) {
-            setTimeout("window.scrollTo(0, "+leapY+")", timer * speed);
-            leapY += step; if (leapY > stopY) leapY = stopY; timer++;
-        } return;
-      }
-      for ( var i=startY; i>stopY; i-=step ) {
-        setTimeout("window.scrollTo(0, "+leapY+")", timer * speed);
-        leapY -= step; if (leapY < stopY) leapY = stopY; timer++;
-      }
-      return false;
-    }
-		</script>
-
-		<title>Samuel DiBella </title>
-	</head>
-
-
-
-	<body onload="about()">
-
-
-		<div id="menu">Samuel DiBella &nbsp;&nbsp;&nbsp;&nbsp;—
-      <div class="button"><a href="#about" onclick="smoothScroll('about')">About</a></div>
-      <div class="button"><a href="#analog" onclick="smoothScroll('analog')"> Analog</a></div>
-      <div class="button"><a href="#digital" onclick="smoothScroll('digital')">Digital</a></div>
-      <div class="button"><a href="#resume" onclick="smoothScroll('resume')">Resume</a></div>
-      <div class="button"><a href="#contact" onclick="smoothScroll('contact')">Contact</a></div>
-    </div>
-
-		<div id="main">
-      <div class="section" id="about"><br/>About</div>
+  <div id="menu">Samuel DiBella</div>
+  <div id="board">
+    <div class="panel">
+      <div class="section">About</div>
       <div class="sectiontext">I'm an editor and designer/coder, trying to apply my interests (formal logic, game design, language) in places that could use them.
-      <ul><i>Things I Am Doing/Did Recently</i>
-        <li>Published an <a href = "http://www.firstpersonscholar.com/on-well-formed-fiction/"><div class="sectionlink"> essay </div></a> on <em>Her Story</em>, state machines and theory of computation.</li>
-        <li>Ludum Dare 33 Submission - <a href="http://ludumdare.com/compo/ludum-dare-33/?action=preview&uid=55228"><div class="sectionlink">Submission Page</div></a> <a href="http://omnikrll.itch.io/going-dark"><div class="sectionlink">itch.io Page</div></a></li>
-        <li>Completed editorial internship with <a href="http://canopycanopycanopy.com"><div class="sectionlink">Triple Canopy</div></a></li>
-        <li>Published <a href="http://canopycanopycanopy.com/issues/19/contents/dont-you-want-to-have-a-body"><div class="sectionlink">chatbot</div></a> on Triple Canopy website</li>
-      </ul>
+        <ul><i>Things I Am Doing/Did Recently</i>
+          <li>Published an <a href = "http://www.firstpersonscholar.com/on-well-formed-fiction/">essay</a> on <em>Her Story</em>, state machines and theory of computation.</li>
+          <li><a href="http://canopycanopycanopy.com/issues/19/contents/dont-you-want-to-have-a-body">Chatbot</a> was published on Triple Canopy website</li>
+        </ul>
       </div>
 
-      <div class="section" id="analog"><br/>Analog</div>
-	    <div class="sectiontext"><i>Design</i><br />
-		  <a href="materials/eblast.pdf"><div class="sectionlink">Northern Boulevard Eblast</div></a>
-          — Marketing eblast created for the Criterion Group's potential Northern Boulevard development.<br /> <br />
-		  Criterion Group Brochure (<a href="materials/brochure.pdf"><div class="sectionlink">1,</div></a> <a href="materials/p3brochure.pdf"><div class="sectionlink">2</div></a>)
-        — Company identity brochure designed for a Queens real estate developer.<br /> <br />
-		  <a href="materials/r1.pdf"><div class="sectionlink">Reckoning</div></a>
-          — Concept for a Renaissance magazine on heretics and the development of scientific reasoning<br /> <br />
-		</div>
-        <div class="sectiontext"><i>Academic Essays</i><br />
-        <a href="materials/SD_CSandMemory.doc"><div class="sectionlink">Objects as Organization: CS & the Art of Memory</div></a>
-        — comparison of modern Object Oriented programming paradigm and medieval art of mnemonics, Spring 2014<br /> <br />
-        <a href="materials/SD_BifocalVisionsOfPushkin.doc"><div class="sectionlink">Bifocal Visions of Poetry in Pushkin</div></a> — brief exploration of the poetic personae of employed by Pushkin, Fall 2014<br /> <br />
-        <i>Creative Writing</i> <br />
-        <a href="http://issuu.com/nyubaedeker/docs/baedeker_final_fall_2013/15"><div class="sectionlink">Monoliths and Mazes</div></a> — travel writing meditation on Berlin architectural features published in NYU Baedeker Magazine, Fall 2013<br /> <br />
+      <div class="section">Digital</div>
+      <div class="sectiontext"><i>Code</i><br/>
+        <a href="http://canopycanopycanopy.com/issues/19/contents/dont-you-want-to-have-a-body">Provan</a> – An AIML chatbot I developed to be published alongside the Triple Canopy article "Don't You Want a Body?" Spring 2015 <br /> <br />
+        <a href="materials/samueldibella_coverletter_test.html">Cover Letters</a> – a short genre experiment I built during Nick Montford's Shebang workshop at Babycastles, Spring 2015</div>
 
-        <a href="materials/SD_Reversals.doc"><div class="sectionlink">Reversals</div></a> — short stanza poem published in the Gallatin Review, Spring 2013 <br /> <br />
+        <div class="section">
+          <a href="materials/samuelDiBella_resume.pdf">Resume</a></div>
+          <div class="sectiontext">Updated 10/17/2015</div>
 
-        <a href="materials/SD_HungryRains.doc"><div class="sectionlink">Hungry Rains</div></a> — published in the Headless Society's Guillotine magazine, Winter 2012<br /> <br /></div>
+          <div class="section">Contact Information</div>
+          <div class="sectiontext">
+            <a href="mailto:samuel.dibella@gmail.com">samuel.dibella@gmail.com</a>
+            <br /><a href="https://github.com/samueldibella">github.com/samueldibella</a>
+            <br /><a href="https://twitter.com/prolixpost">@prolixpost</a>
+          </div>
+        </div>
 
+        <div class="panel">
+          <div class="section">Analog</div>
+          <div class="sectiontext"><i>Design</i><br />
+            Criterion Group Brochure (<a href="materials/brochure.pdf">1, </a><a href="materials/p3brochure.pdf">2</a>)
+            – Company identity brochure designed for a Queens real estate developer.
+            <br /><br />
+          </div>
+          <div class="sectiontext"><i>Academic Essays</i><br />
+            <a href="materials/SD_CSandMemory.doc">Objects as Organization: CS & the Art of Memory</a>
+            – comparison of modern Object Oriented programming paradigm and medieval art of mnemonics, Spring 2014
+            <br /> <br />
+            <a href="materials/SD_BifocalVisionsOfPushkin.doc">Bifocal Visions of Poetry in Pushkin</a> – brief exploration of the poetic personae of employed by Pushkin, Fall 2014
+            <br /> <br />
+            <i>Creative Writing</i> <br />
+            <a href="http://ludumdare.com/compo/ludum-dare-33/?action=preview&uid=55228">Going Dark</a> – malevolent AI sim for Ludum Dare 33. I did the writing and some of the art
+            <br /> <br />
+            <a href="http://issuu.com/nyubaedeker/docs/baedeker_final_fall_2013/15">Monoliths and Mazes</a> – travel writing meditation on Berlin architectural features published in NYU Baedeker Magazine, Fall 2013
+            <br /> <br />
+            <a href="materials/SD_Reversals.doc">Reversals</a> – short stanza poem published in the Gallatin Review, Spring 2013
+            <br /><br />
+            <a href="materials/SD_HungryRains.doc">Hungry Rains</a> – published in the Headless Society's Guillotine magazine, Winter 2012
+          </div>
 
-      <div class="section" id="digital"><br/>Digital</div>
-        <div class="sectiontext"><i>Code</i><br/>
-        <a href="http://canopycanopycanopy.com/issues/19/contents/dont-you-want-to-have-a-body"><div class="sectionlink">Provan</div></a> — An AIML chatbot I developed to be published alongside the Triple Canopy article "Don't You Want a Body?" Spring 2015 <br /> <br />
-        <a href="materials/samueldibella_coverletter_test.html"><div class="sectionlink">Cover Letters</div></a> — a short genre experiment I built during Nick Montford's Shebang workshop at Babycastles, Spring 2015</div>
-
-      <div class="section" id="resume">
-          <a href="materials/samuelDiBella_resume.pdf"><div class="sectionlink"><br/>Resume</div></a></div>
-        <div class="sectiontext">  Updated 10/17/2015</div>
-
-      <div class="section" id="contact"><br/>Contact Information</div>
-        <div class="sectiontext"> <a href="mailto:samuel.dibella@gmail.com"><div class="sectionlink">samuel.dibella@gmail.com</div></a>
-        <br /> <a href="https://github.com/samueldibella"><div class="sectionlink">github.com/samueldibella</div></a>
-        <br /><a href="https://twitter.com/prolixpost"><div class="sectionlink">@prolixpost</div></a></div>
-      <div class="section"></div>
-
-      <!-- gross -->
-      <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-
-    </div>
-	</body>
-</html>
+        </div> //panel end
+      </div> //board
+    </body>
+    </html>
