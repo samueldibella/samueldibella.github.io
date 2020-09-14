@@ -22,7 +22,7 @@ footer {
 }
 
 .site-title {
-    font-family: Copse;
+    font-family: Copse, Caslon, serif;
 }
 .site-nav {
     padding-left: 30px;
@@ -54,6 +54,9 @@ main a:hover{
 
 img{
     padding: 10px 10px 10px 10px;
+}
+.icon {
+    fill: #333333;
 }
 
 ul {
