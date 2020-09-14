@@ -1,0 +1,7 @@
+---
+layout: post
+title:  Initial
+date:   2020-09-13 23:37:12 -0400
+categories: jekyll update
+---
+Hi, I'm Sam. I do things.
