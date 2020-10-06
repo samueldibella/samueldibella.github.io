@@ -26,7 +26,6 @@ title: editing
 
 #### 2017
 * *The Scharf Collection: A History Revealed*, developmental edits, line editing and proofreading
-* *Take Back the Fight*, copyedited
 * *Richard Jolley: Cycle of Life*, line editing and art direction
 * *Take Back the Fight: Resisting Sexual Violence from the Ground Up*, chapter proofreading
 * *Julia Jacquette: Playground of My Mind*, proofreading
