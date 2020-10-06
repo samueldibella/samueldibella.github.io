@@ -8,10 +8,10 @@ title: editing
 
 ## books
 #### 2020
-* *Geometry by Israel Gelfand*, graphic design and layout
+* *Geometry by Israel Gelfand*, lead graphic design and layout
 
 #### 2019
-* *The Second Book of Persephone Short Stories*, proofread
+* *The Second Book of Persephone Short Stories*, proofreading
 * *Bodies of Constant Width: An Introduction to Convex Geometry with Applications*, arranged peer review and developmental editing
 * *Temporal Type Theory: A Topos-Theoretic Approach to Systems and Behavior*, arranged peer review and developmental editing
 * *Nonlinear PDEs, Their Geometry, and Applications*, acquired
@@ -25,11 +25,12 @@ title: editing
 * *Dynamical Systems with Applications using Python*, arranged peer review and developmental editing
 
 #### 2017
-* *The Scharf Collection: A History Revealed*, developmental edits, line editing and proofread
+* *The Scharf Collection: A History Revealed*, developmental edits, line editing and proofreading
 * *Take Back the Fight*, copyedited
 * *Richard Jolley: Cycle of Life*, line editing and art direction
+* *Take Back the Fight: Resisting Sexual Violence from the Ground Up*, chapter proofreading
 * *Julia Jacquette: Playground of My Mind*, proofreading
-* *Black, White, Other: Biracial Americans Talk About Race and Identity*, indexing, 2017
+* *Black, White, Other: Biracial Americans Talk About Race and Identity*, indexing
 * *Robert Brackman Remembered*, graphic design
 
 #### 2015–2016
@@ -46,8 +47,9 @@ title: editing
 * *Omnia*, literary magazine, editor and graphic design (2008–11)
 
 ## other
-* [Our Data Future](https://privacyinternational.org/long-read/3088/our-data-future), 2019, Privacy International
+* [Our Data Future](https://privacyinternational.org/long-read/3088/our-data-future), 2019, Privacy International, copyediting
 * *Defining Marks: A Defense of the Predicate View of Proper Names* dissertation, 2017, Matt Moss
+* Hunter College Art Gallery website, 2017, copyediting
 
 
 *Everything sorted by publishing date.*
