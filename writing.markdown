@@ -8,7 +8,7 @@ title: writing
 
 ## book reviews
 #### Academic
-* [*Ctrl+Z: Right to Be Forgotten: The  Right to  Be  Forgotten* by Meg Leta Jones](https://ojs.library.queensu.ca/index.php/surveillance-and-society/article/view/13995), 2020, *Surveillance and Society*
+* [*Ctrl+Z: The  Right to  Be  Forgotten* by Meg Leta Jones](https://ojs.library.queensu.ca/index.php/surveillance-and-society/article/view/13995), 2020, *Surveillance and Society*
 * [*The Infographic: A History of Data Graphics in News and Communications* by Dick Murray](https://blogs.lse.ac.uk/lsereviewofbooks/2020/06/16/book-review-the-infographic-a-history-of-data-graphics-in-news-and-communications-by-murray-dick/), 2020, *LSE Review of Books*
 * [*Abolish Silicon Valley: How to Liberate Technology from Capitalism* by Wendy Liu](https://entropymag.org/abolish-silicon-valley-wendy-liu/), 2020, *Entropy Magazine*
 * [*The Age of Surveillance Capitalism* by Shoshana Zuboff](https://blogs.lse.ac.uk/lsereviewofbooks/2019/11/04/book-review-the-age-of-surveillance-capitalism-the-fight-for-the-future-at-the-new-frontier-of-power-by-shoshana-zuboff/#comments), 2019, *LSE Review of Books*
