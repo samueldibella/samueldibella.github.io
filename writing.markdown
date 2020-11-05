@@ -8,6 +8,7 @@ title: writing
 
 ## book reviews
 #### Academic
+* [*Predict and Surveil: Data, Discretion and the Future of Policing* by Sarah Brayne](https://blogs.lse.ac.uk/lsereviewofbooks/2020/11/05/book-review-predict-and-surveil-data-discretion-and-the-future-of-policing-by-sarah-brayne/), 2020, *LSE Review of Books*
 * [*Ctrl+Z: The  Right to  Be  Forgotten* by Meg Leta Jones](https://ojs.library.queensu.ca/index.php/surveillance-and-society/article/view/13995), 2020, *Surveillance and Society*
 * [*The Infographic: A History of Data Graphics in News and Communications* by Dick Murray](https://blogs.lse.ac.uk/lsereviewofbooks/2020/06/16/book-review-the-infographic-a-history-of-data-graphics-in-news-and-communications-by-murray-dick/), 2020, *LSE Review of Books*
 * [*Abolish Silicon Valley: How to Liberate Technology from Capitalism* by Wendy Liu](https://entropymag.org/abolish-silicon-valley-wendy-liu/), 2020, *Entropy Magazine*
@@ -24,7 +25,7 @@ title: writing
 * [*The Poppy War* by R. F Kuang](https://manhattanbookreview.com/product/the-poppy-war-a-novel/), 2018, *Manhattan Book Review*
 * [*Malagash* by Joey Comeau](https://www.raintaxi.com/volume-23-number-1-spring-2018-89/), 2018, *Rain Taxi Review of Books*, Volume 23, Number 1, Spring 2018 (#89)
 * [*A Science Not for the Earth* by Yevgeny Baratynsky](http://thecollagist.com/the-collagist/2016/5/2/a-science-not-for-the-earth-by-yevgeny.html), 2016, *The Collagist*
-* And more anonymous Kirkus reviews than I care to remember
+*And more anonymous Kirkus reviews than I care to remember*
 
 
 ## articles & interviews
