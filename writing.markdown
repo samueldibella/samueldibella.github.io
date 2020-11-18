@@ -6,6 +6,18 @@ layout: page
 title: writing
 ---
 
+## essays & interviews
+* [The Broken Circle and the Open Line](http://www.heterotopiaszine.com/007-2/), 2020, *Heterotopias*, Issue 7
+* [Building Community in Brooklyn: A Grassroots Case Study](https://www.eff.org/sh/deeplinks/2019/07/building-community-brooklyn-grassroots-case-study), 2019, Electronic Frontier Foundation, interviewed by Camille Ochoa
+* [Materiality is Proof: A Conversation with K Chess](https://theadroitjournal.org/2019/12/27/materiality-is-proof-a-conversation-with-k-chess/), 2019, *Adroit Journal*
+* [The Forgetting Game](https://www.heterotopiaszine.com/2017/11/29/forgetting-game-kentucky-route-zero/), 2017, *Heterotopias*
+* [On Well-formed Fiction](http://www.firstpersonscholar.com/on-well-formed-fiction/), 2015, *First Person Scholar*
+* [Unpacking Her Story](http://thefanzine.com/her-story/), 2015, *Fanzine*
+
+## news writing
+* [Town Makes Progress on Affordable Housing](https://eastgreenwichnews.com/town-makes-progress-on-affordable-housing/), 2020, *EG News*
+* [Council Wants to Help Schools This Year Without Penalty Next](https://eastgreenwichnews.com/council-wants-to-help-schools-this-year-without-penalty-next/), 2020, *EG News*
+
 ## book reviews
 #### Academic
 * [*Predict and Surveil: Data, Discretion and the Future of Policing* by Sarah Brayne](https://blogs.lse.ac.uk/lsereviewofbooks/2020/11/05/book-review-predict-and-surveil-data-discretion-and-the-future-of-policing-by-sarah-brayne/), 2020, *LSE Review of Books*
@@ -22,16 +34,7 @@ title: writing
 * [*Unholy Land* by Lavie Tidhar](https://manhattanbookreview.com/product/unholy-land/), 2018, *Manhattan Book Review*
 * [*Vita Nostra* by Sergiy Dyachenko & Maryna Shyrshova-Dyachenko](https://manhattanbookreview.com/product/vita-nostra-a-novel/), 2018, *Manhattan Book Review*
 * [*Trick* by Domenico Starnone](https://manhattanbookreview.com/product/trick/), 2018, *Manhattan Book Review*
-* [*The Poppy War* by R. F Kuang](https://manhattanbookreview.com/product/the-poppy-war-a-novel/), 2018, *Manhattan Book Review*
+* [*The Poppy War* by R. F. Kuang](https://manhattanbookreview.com/product/the-poppy-war-a-novel/), 2018, *Manhattan Book Review*
 * [*Malagash* by Joey Comeau](https://www.raintaxi.com/volume-23-number-1-spring-2018-89/), 2018, *Rain Taxi Review of Books*, Volume 23, Number 1, Spring 2018 (#89)
 * [*A Science Not for the Earth* by Yevgeny Baratynsky](http://thecollagist.com/the-collagist/2016/5/2/a-science-not-for-the-earth-by-yevgeny.html), 2016, *The Collagist*
 *And more anonymous Kirkus reviews than I care to remember*
-
-
-## articles & interviews
-* [The Broken Circle and the Open Line](http://www.heterotopiaszine.com/007-2/), 2020, *Heterotopias*, Issue 7
-* [Building Community in Brooklyn: A Grassroots Case Study](https://www.eff.org/sh/deeplinks/2019/07/building-community-brooklyn-grassroots-case-study), 2019, Electronic Frontier Foundation, interviewed by Camille Ochoa
-* [Materiality is Proof: A Conversation with K Chess](https://theadroitjournal.org/2019/12/27/materiality-is-proof-a-conversation-with-k-chess/), 2019, *Adroit Journal*
-* [The Forgetting Game](www.heterotopiaszine.com/2017/11/29/forgetting-game-kentucky-route-zero/), 2017, *Heterotopias*
-* [On Well-formed Fiction](http://www.firstpersonscholar.com/on-well-formed-fiction/), 2015, *First Person Scholar*
-* [Unpacking Her Story](http://thefanzine.com/her-story/), 2015, *Fanzine*
