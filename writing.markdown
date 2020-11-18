@@ -14,7 +14,7 @@ title: writing
 * [On Well-formed Fiction](http://www.firstpersonscholar.com/on-well-formed-fiction/), 2015, *First Person Scholar*
 * [Unpacking Her Story](http://thefanzine.com/her-story/), 2015, *Fanzine*
 
-## news writing
+## news 
 * [Town Makes Progress on Affordable Housing](https://eastgreenwichnews.com/town-makes-progress-on-affordable-housing/), 2020, *EG News*
 * [Council Wants to Help Schools This Year Without Penalty Next](https://eastgreenwichnews.com/council-wants-to-help-schools-this-year-without-penalty-next/), 2020, *EG News*
 
