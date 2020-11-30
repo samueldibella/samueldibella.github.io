@@ -7,14 +7,16 @@ title: writing
 ---
 
 ## essays & interviews
-* [The Broken Circle and the Open Line](http://www.heterotopiaszine.com/007-2/), 2020, *Heterotopias*, Issue 7
-* [Building Community in Brooklyn: A Grassroots Case Study](https://www.eff.org/sh/deeplinks/2019/07/building-community-brooklyn-grassroots-case-study), 2019, Electronic Frontier Foundation, interviewed by Camille Ochoa
-* [Materiality is Proof: A Conversation with K Chess](https://theadroitjournal.org/2019/12/27/materiality-is-proof-a-conversation-with-k-chess/), 2019, *Adroit Journal*
-* [The Forgetting Game](https://www.heterotopiaszine.com/2017/11/29/forgetting-game-kentucky-route-zero/), 2017, *Heterotopias*
-* [On Well-formed Fiction](http://www.firstpersonscholar.com/on-well-formed-fiction/), 2015, *First Person Scholar*
+* On the new media & analog dreams of *Kentucky Route Zero*, [The Broken Circle and the Open Line](http://www.heterotopiaszine.com/007-2/), 2020, *Heterotopias*, Issue 7
+* On cryptoparty planning and holistic security for activists, [Building Community in Brooklyn: A Grassroots Case Study](https://www.eff.org/sh/deeplinks/2019/07/building-community-brooklyn-grassroots-case-study), 2019, Electronic Frontier Foundation, interviewed by Camille Ochoa
+* On scifi writing and memory in alternate timelines, [Materiality is Proof: A Conversation with K Chess](https://theadroitjournal.org/2019/12/27/materiality-is-proof-a-conversation-with-k-chess/), 2019, *Adroit Journal*
+* On the landscape of debt and memory in *Kentucky Route Zero*, [The Forgetting Game](https://www.heterotopiaszine.com/2017/11/29/forgetting-game-kentucky-route-zero/), 2017, *Heterotopias*
+* On new forms of narrative structures in interactive fiction games, [On Well-formed Fiction](http://www.firstpersonscholar.com/on-well-formed-fiction/), 2015, *First Person Scholar*
 * [Unpacking Her Story](http://thefanzine.com/her-story/), 2015, *Fanzine*
 
-## news 
+## news
+* [K–2 Schools Revamp Report Cards](https://eastgreenwichnews.com/k-2-schools-revamp-report-cards/), 2020, *EG News*
+* [Raimondo Announces ‘Pause’ for Nov. 30](https://eastgreenwichnews.com/raimondo-announces-pause-for-nov-30/), 2020, *EG News*
 * [Town Makes Progress on Affordable Housing](https://eastgreenwichnews.com/town-makes-progress-on-affordable-housing/), 2020, *EG News*
 * [Council Wants to Help Schools This Year Without Penalty Next](https://eastgreenwichnews.com/council-wants-to-help-schools-this-year-without-penalty-next/), 2020, *EG News*
 
