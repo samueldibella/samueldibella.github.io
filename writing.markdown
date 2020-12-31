@@ -7,6 +7,7 @@ title: writing
 ---
 
 ## essays & interviews
+* [Play at the V&A: A Conversation with Marie Foulston and Kristian Volsing on the Videogames: Design/Play/Disrupt Exhibition https://romchip.org/index.php/romchip-journal/article/view/120], 2020, *ROMChip*, Vol. 2, Issue 2
 * On the new media & analog dreams of *Kentucky Route Zero*, [The Broken Circle and the Open Line](http://www.heterotopiaszine.com/007-2/), 2020, *Heterotopias*, Issue 7
 * On cryptoparty planning and holistic security for activists, [Building Community in Brooklyn: A Grassroots Case Study](https://www.eff.org/sh/deeplinks/2019/07/building-community-brooklyn-grassroots-case-study), 2019, Electronic Frontier Foundation, interviewed by Camille Ochoa
 * On scifi writing and memory in alternate timelines, [Materiality is Proof: A Conversation with K Chess](https://theadroitjournal.org/2019/12/27/materiality-is-proof-a-conversation-with-k-chess/), 2019, *Adroit Journal*
@@ -15,10 +16,10 @@ title: writing
 * [Unpacking Her Story](http://thefanzine.com/her-story/), 2015, *Fanzine*
 
 ## news
+* [Wireless & Steam Museum Reaches Out](https://eastgreenwichnews.com/wireless-steam-museum-reaches-out/), 2020, *EG News*
+* [Local Vaccine Trial Participants Talk About Experience](https://eastgreenwichnews.com/local-vaccine-trial-participants-talk-about-experience/), 2020, *EG News*
 * [K–2 Schools Revamp Report Cards](https://eastgreenwichnews.com/k-2-schools-revamp-report-cards/), 2020, *EG News*
-* [Raimondo Announces ‘Pause’ for Nov. 30](https://eastgreenwichnews.com/raimondo-announces-pause-for-nov-30/), 2020, *EG News*
 * [Town Makes Progress on Affordable Housing](https://eastgreenwichnews.com/town-makes-progress-on-affordable-housing/), 2020, *EG News*
-* [Council Wants to Help Schools This Year Without Penalty Next](https://eastgreenwichnews.com/council-wants-to-help-schools-this-year-without-penalty-next/), 2020, *EG News*
 
 ## book reviews
 #### Academic
@@ -39,4 +40,6 @@ title: writing
 * [*The Poppy War* by R. F. Kuang](https://manhattanbookreview.com/product/the-poppy-war-a-novel/), 2018, *Manhattan Book Review*
 * [*Malagash* by Joey Comeau](https://www.raintaxi.com/volume-23-number-1-spring-2018-89/), 2018, *Rain Taxi Review of Books*, Volume 23, Number 1, Spring 2018 (#89)
 * [*A Science Not for the Earth* by Yevgeny Baratynsky](http://thecollagist.com/the-collagist/2016/5/2/a-science-not-for-the-earth-by-yevgeny.html), 2016, *The Collagist*
-*And more anonymous Kirkus reviews than I care to remember*
+
+
+*And more anonymous Kirkus reviews than I care to remember. All these lists are partial*
