@@ -16,10 +16,10 @@ title: writing
 * [Unpacking Her Story](http://thefanzine.com/her-story/), 2015, *Fanzine*
 
 ## news
+* [Historic Society Finds Buyer for Old Jail; It’s Not the Town](https://eastgreenwichnews.com/historic-society-find-buyer-for-old-jail-its-not-the-town/), 2021, *EG News*
 * [Wireless & Steam Museum Reaches Out](https://eastgreenwichnews.com/wireless-steam-museum-reaches-out/), 2020, *EG News*
 * [Local Vaccine Trial Participants Talk About Experience](https://eastgreenwichnews.com/local-vaccine-trial-participants-talk-about-experience/), 2020, *EG News*
 * [K–2 Schools Revamp Report Cards](https://eastgreenwichnews.com/k-2-schools-revamp-report-cards/), 2020, *EG News*
-* [Town Makes Progress on Affordable Housing](https://eastgreenwichnews.com/town-makes-progress-on-affordable-housing/), 2020, *EG News*
 
 ## book reviews
 #### Academic
