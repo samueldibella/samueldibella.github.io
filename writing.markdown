@@ -15,14 +15,9 @@ title: writing
 * On new forms of narrative structures in interactive fiction games, [On Well-formed Fiction](http://www.firstpersonscholar.com/on-well-formed-fiction/), 2015, *First Person Scholar*
 * [Unpacking Her Story](http://thefanzine.com/her-story/), 2015, *Fanzine*
 
-## news
-* [Historic Society Finds Buyer for Old Jail; It’s Not the Town](https://eastgreenwichnews.com/historic-society-find-buyer-for-old-jail-its-not-the-town/), 2021, *EG News*
-* [Wireless & Steam Museum Reaches Out](https://eastgreenwichnews.com/wireless-steam-museum-reaches-out/), 2020, *EG News*
-* [Local Vaccine Trial Participants Talk About Experience](https://eastgreenwichnews.com/local-vaccine-trial-participants-talk-about-experience/), 2020, *EG News*
-* [K–2 Schools Revamp Report Cards](https://eastgreenwichnews.com/k-2-schools-revamp-report-cards/), 2020, *EG News*
-
 ## book reviews
-#### Academic
+#### academic
+* [*The Filing Cabinet: A Vertical History of Information* by Craig Robertson](https://blogs.lse.ac.uk/lsereviewofbooks/2021/04/30/book-review-the-filing-cabinet-a-vertical-history-of-information-by-craig-robertson/), 2021, *LSE Review of Books*
 * [*Predict and Surveil: Data, Discretion and the Future of Policing* by Sarah Brayne](https://blogs.lse.ac.uk/lsereviewofbooks/2020/11/05/book-review-predict-and-surveil-data-discretion-and-the-future-of-policing-by-sarah-brayne/), 2020, *LSE Review of Books*
 * [*Ctrl+Z: The  Right to  Be  Forgotten* by Meg Leta Jones](https://ojs.library.queensu.ca/index.php/surveillance-and-society/article/view/13995), 2020, *Surveillance and Society*
 * [*The Infographic: A History of Data Graphics in News and Communications* by Dick Murray](https://blogs.lse.ac.uk/lsereviewofbooks/2020/06/16/book-review-the-infographic-a-history-of-data-graphics-in-news-and-communications-by-murray-dick/), 2020, *LSE Review of Books*
@@ -31,7 +26,7 @@ title: writing
 * [*Metric Culture: Ontologies of Self-Tracking Practices* edited by Btihaj Ajana](https://blogs.lse.ac.uk/lsereviewofbooks/2019/02/04/book-review-metric-culture-ontologies-of-self-tracking-practices-edited-by-btihaj-ajana/), 2018, *LSE Review of Books*
 * [*Revolting New York: How 400 Years of Riot, Rebellion, Uprising and Revolution Shaped a City* by Neil Smith and Don Mitchell et al](https://blogs.lse.ac.uk/lsereviewofbooks/2018/09/20/book-review-revolting-new-york-how-400-years-of-riot-rebellion-uprising-and-revolution-shaped-a-city-edited-by-neil-smith-et-al/), 2018, *LSE Review of Books*
 
-#### Fiction & Poetry
+#### fiction & poetry
 * [*Eventide* by Therese Bohman](https://manhattanbookreview.com/product/eventide/), 2018, *Manhattan Book Review*
 * [*Melmoth* by Sarah Perry](https://manhattanbookreview.com/product/melmoth-a-novel/), 2018, *Manhattan Book Review*
 * [*Unholy Land* by Lavie Tidhar](https://manhattanbookreview.com/product/unholy-land/), 2018, *Manhattan Book Review*
@@ -41,5 +36,10 @@ title: writing
 * [*Malagash* by Joey Comeau](https://www.raintaxi.com/volume-23-number-1-spring-2018-89/), 2018, *Rain Taxi Review of Books*, Volume 23, Number 1, Spring 2018 (#89)
 * [*A Science Not for the Earth* by Yevgeny Baratynsky](http://thecollagist.com/the-collagist/2016/5/2/a-science-not-for-the-earth-by-yevgeny.html), 2016, *The Collagist*
 
+## news
+* [Historic Society Finds Buyer for Old Jail; It’s Not the Town](https://eastgreenwichnews.com/historic-society-find-buyer-for-old-jail-its-not-the-town/), 2021, *EG News*
+* [Wireless & Steam Museum Reaches Out](https://eastgreenwichnews.com/wireless-steam-museum-reaches-out/), 2020, *EG News*
+* [Local Vaccine Trial Participants Talk About Experience](https://eastgreenwichnews.com/local-vaccine-trial-participants-talk-about-experience/), 2020, *EG News*
+* [K–2 Schools Revamp Report Cards](https://eastgreenwichnews.com/k-2-schools-revamp-report-cards/), 2020, *EG News*
 
 *And more anonymous Kirkus reviews than I care to remember. All these lists are partial*
