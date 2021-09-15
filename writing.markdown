@@ -7,6 +7,7 @@ title: writing
 ---
 
 ## essays & interviews
+* [*Notes from Below* interview](https://washingtonsocialist.mdcdsa.org/ws-articles/21-09-notes-from-below), 2021, *Washington Socialist*
 * [Why Play at Orientalism?](https://www.publicbooks.org/why-play-at-orientalism/), 2021, *Public Books*
 * [Play at the V&A: A Conversation with Marie Foulston and Kristian Volsing on the Videogames: Design/Play/Disrupt Exhibition](https://romchip.org/index.php/romchip-journal/article/view/120), 2020, *ROMChip*, Vol. 2, Issue 2
 * On the new media & analog dreams of *Kentucky Route Zero*, [The Broken Circle and the Open Line](http://www.heterotopiaszine.com/007-2/), 2020, *Heterotopias*, Issue 7
