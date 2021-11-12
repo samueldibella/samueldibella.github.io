@@ -19,6 +19,7 @@ title: writing
 
 ## book reviews
 #### Academic
+* [*Digital Democracy, Social Media and Disinformation* by Petros Iosifidis and Nicholas Nicoli](https://ijoc.org/index.php/ijoc/article/view/17607/3507)
 * [*The Filing Cabinet: A Vertical History of Information* by Craig Robertson](https://blogs.lse.ac.uk/lsereviewofbooks/2021/04/30/book-review-the-filing-cabinet-a-vertical-history-of-information-by-craig-robertson/), 2021, *LSE Review of Books*
 * [*Predict and Surveil: Data, Discretion and the Future of Policing* by Sarah Brayne](https://blogs.lse.ac.uk/lsereviewofbooks/2020/11/05/book-review-predict-and-surveil-data-discretion-and-the-future-of-policing-by-sarah-brayne/), 2020, *LSE Review of Books*
 * [*Ctrl+Z: The  Right to  Be  Forgotten* by Meg Leta Jones](https://ojs.library.queensu.ca/index.php/surveillance-and-society/article/view/13995), 2020, *Surveillance and Society*
@@ -38,7 +39,7 @@ title: writing
 * [*Malagash* by Joey Comeau](https://www.raintaxi.com/volume-23-number-1-spring-2018-89/), 2018, *Rain Taxi Review of Books*, Volume 23, Number 1, Spring 2018 (#89)
 * [*A Science Not for the Earth* by Yevgeny Baratynsky](http://thecollagist.com/the-collagist/2016/5/2/a-science-not-for-the-earth-by-yevgeny.html), 2016, *The Collagist*
 
-## News
+## news
 * [Historic Society Finds Buyer for Old Jail; It’s Not the Town](https://eastgreenwichnews.com/historic-society-find-buyer-for-old-jail-its-not-the-town/), 2021, *EG News*
 * [Wireless & Steam Museum Reaches Out](https://eastgreenwichnews.com/wireless-steam-museum-reaches-out/), 2020, *EG News*
 * [Local Vaccine Trial Participants Talk About Experience](https://eastgreenwichnews.com/local-vaccine-trial-participants-talk-about-experience/), 2020, *EG News*
