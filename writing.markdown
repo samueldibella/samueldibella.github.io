@@ -9,6 +9,7 @@ title: writing
 ## essays & interviews
 * [*Notes from Below* interview](https://washingtonsocialist.mdcdsa.org/ws-articles/21-09-notes-from-below), 2021, *Washington Socialist*
 * [Why Play at Orientalism?](https://www.publicbooks.org/why-play-at-orientalism/), 2021, *Public Books*
+* [Keep Your Eye on the Blall](https://pandemics-and-games-essay-jam.pubpub.org/pub/ix5pl2ap/release/2), 2021, *Sickness, Systems, Solidarity: A Pandemics and Games Essay Jam*
 * [Play at the V&A: A Conversation with Marie Foulston and Kristian Volsing on the Videogames: Design/Play/Disrupt Exhibition](https://romchip.org/index.php/romchip-journal/article/view/120), 2020, *ROMChip*, Vol. 2, Issue 2
 * On the new media & analog dreams of *Kentucky Route Zero*, [The Broken Circle and the Open Line](http://www.heterotopiaszine.com/007-2/), 2020, *Heterotopias*, Issue 7
 * On cryptoparty planning and holistic security for activists, [Building Community in Brooklyn: A Grassroots Case Study](https://www.eff.org/sh/deeplinks/2019/07/building-community-brooklyn-grassroots-case-study), 2019, Electronic Frontier Foundation, interviewed by Camille Ochoa
