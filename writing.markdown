@@ -24,6 +24,7 @@ title: writing
 
 ## book reviews
 #### Academic
+* [*Cut/Copy/Paste: Fragments from the History of Bookwork* by Whitney Trettien](https://blogs.lse.ac.uk/lsereviewofbooks/2022/06/23/book-review-cut-copy-paste-fragments-from-the-history-of-bookwork-by-whitney-trettien/), 2022, *LSE Review of Books*
 * [*Digital Democracy, Social Media and Disinformation* by Petros Iosifidis and Nicholas Nicoli](https://ijoc.org/index.php/ijoc/article/view/17607/3507), 2021, *International Journal of Communication*
 * [*The Filing Cabinet: A Vertical History of Information* by Craig Robertson](https://blogs.lse.ac.uk/lsereviewofbooks/2021/04/30/book-review-the-filing-cabinet-a-vertical-history-of-information-by-craig-robertson/), 2021, *LSE Review of Books*
 * [*Predict and Surveil: Data, Discretion and the Future of Policing* by Sarah Brayne](https://blogs.lse.ac.uk/lsereviewofbooks/2020/11/05/book-review-predict-and-surveil-data-discretion-and-the-future-of-policing-by-sarah-brayne/), 2020, *LSE Review of Books*
