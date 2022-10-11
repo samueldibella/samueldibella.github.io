@@ -6,7 +6,10 @@ layout: page
 title: writing
 ---
 
-## essays & interviews
+## articles & interviews
+### peer-reviewed
+* The Patient as Hidden Messenger: NF2, Watchful Waiting, and Records of Care, forthcoming, *First Monday*
+### not
 * [*Notes from Below* interview](https://washingtonsocialist.mdcdsa.org/ws-articles/21-09-notes-from-below), 2021, *Washington Socialist*
 * [Why Play at Orientalism?](https://www.publicbooks.org/why-play-at-orientalism/), 2021, *Public Books*
 * [Keep Your Eye on the Blall](https://pandemics-and-games-essay-jam.pubpub.org/pub/ix5pl2ap/release/2), 2021, *Sickness, Systems, Solidarity: A Pandemics and Games Essay Jam*
