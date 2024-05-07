@@ -41,7 +41,7 @@ title: writing
 * [*Unholy Land* by Lavie Tidhar](https://manhattanbookreview.com/product/unholy-land/), 2018, *Manhattan Book Review*
 * [*Vita Nostra* by Sergiy Dyachenko & Maryna Shyrshova-Dyachenko](https://manhattanbookreview.com/product/vita-nostra-a-novel/), 2018, *Manhattan Book Review*
 * [*Trick* by Domenico Starnone](https://manhattanbookreview.com/product/trick/), 2018, *Manhattan Book Review*
-* [*The Poppy War* by R. F. Kuang](https://manhattanbookreview.com/product/the-poppy-war-a-novel/), 2018, *Manhattan Book Review*
+* [*The Poppy War* by R.F. Kuang](https://manhattanbookreview.com/product/the-poppy-war-a-novel/), 2018, *Manhattan Book Review*
 * [*Malagash* by Joey Comeau](https://www.raintaxi.com/volume-23-number-1-spring-2018-89/), 2018, *Rain Taxi Review of Books*, Volume 23, Number 1, Spring 2018 (#89)
 * [*A Science Not for the Earth* by Yevgeny Baratynsky](http://thecollagist.com/the-collagist/2016/5/2/a-science-not-for-the-earth-by-yevgeny.html), 2016, *The Collagist*
 
