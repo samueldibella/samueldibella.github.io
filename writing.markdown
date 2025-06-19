@@ -24,6 +24,7 @@ title: writing
 
 ## book reviews
 #### Academic
+* [*The Mechanic and the Luddite* by Jathan Sadowski](https://blogs.lse.ac.uk/lsereviewofbooks/2025/03/24/book-review-the-mechanic-and-the-luddite-a-ruthless-criticism-of-technology-and-capitalism-jathan-sadowski/), 2025, *LSE Review of Books*
 * [*Making Information Matter: Understanding Surveillance and Making a Difference* by Mareile Kaufmann](https://blogs.lse.ac.uk/lsereviewofbooks/2024/07/11/book-review-making-information-matter-understanding-surveillance-and-making-a-difference-mareile-kaufmann/), 2024, *LSE Review of Books*
 * [*Cut/Copy/Paste: Fragments from the History of Bookwork* by Whitney Trettien](https://blogs.lse.ac.uk/lsereviewofbooks/2022/06/23/book-review-cut-copy-paste-fragments-from-the-history-of-bookwork-by-whitney-trettien/), 2022, *LSE Review of Books*
 * [*Digital Democracy, Social Media and Disinformation* by Petros Iosifidis and Nicholas Nicoli](https://ijoc.org/index.php/ijoc/article/view/17607/3507), 2021, *International Journal of Communication*
@@ -52,4 +53,7 @@ title: writing
 * [Local Vaccine Trial Participants Talk About Experience](https://eastgreenwichnews.com/local-vaccine-trial-participants-talk-about-experience/), 2020, *EG News*
 * [K–2 Schools Revamp Report Cards](https://eastgreenwichnews.com/k-2-schools-revamp-report-cards/), 2020, *EG News*
 
-*And more anonymous Kirkus reviews than I care to remember. All these lists are partial*
+## poetry
+* [*Executive Orders*](https://punctumbooks.com/titles/executive-orders/) contributor, 2025, punctum books
+
+*All these lists are partial*
