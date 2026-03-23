@@ -11,6 +11,9 @@ title: writing
 * [The Patient as Hidden Messenger: NF2, Watchful Waiting, and Records of Care](https://firstmonday.org/ojs/index.php/fm/article/view/12926), 2023, *First Monday*
 
 #### Not
+* [Border Media, Near and Far](https://ijoc.org/index.php/ijoc/article/view/25527), 2025, *International Journal of Communication*
+* [Dreaming of Security through Lanyards and Bollards](https://blog.castac.org/2025/10/dreaming-of-security-through-lanyards-and-bollards/), 2025, *Platypus*, Committee on the Anthropology of Science, Technology, and Computing
+* [Risky Research Guide: An AoIR Guide to Researcher Protection and Safety](https://aoir.org/riskyresearchguide/), 2025, Association of Internet Researchers Risky Research Working Group
 * [Why Play at Orientalism?](https://www.publicbooks.org/why-play-at-orientalism/), 2021, *Public Books*
 * [Keep Your Eye on the Blall](https://pandemics-and-games-essay-jam.pubpub.org/pub/ix5pl2ap/release/2), 2021, *Sickness, Systems, Solidarity: A Pandemics and Games Essay Jam*
 * [Play at the V&A: A Conversation with Marie Foulston and Kristian Volsing on the Videogames: Design/Play/Disrupt Exhibition](https://romchip.org/index.php/romchip-journal/article/view/120), 2020, *ROMChip*, Vol. 2, Issue 2
@@ -24,7 +27,9 @@ title: writing
 
 ## book reviews
 #### Academic
+* [*Open Secrecy: How Technology Empowers the Digital Underworld* by Isak Ladegaard](https://blogs.lse.ac.uk/lsereviewofbooks/2026/01/02/book-review-open-secrecy-how-technology-empowers-the-digital-underworld-isak-ladegaard/), 2026, *LSE Review of Books*
 * [*The Mechanic and the Luddite* by Jathan Sadowski](https://blogs.lse.ac.uk/lsereviewofbooks/2025/03/24/book-review-the-mechanic-and-the-luddite-a-ruthless-criticism-of-technology-and-capitalism-jathan-sadowski/), 2025, *LSE Review of Books*
+* [*Policing Patients* by Elizabeth Chiarello](https://blogs.lse.ac.uk/lsereviewofbooks/2025/01/06/book-review-policing-patients-treatment-and-surveillance-on-the-frontlines-of-the-opioid-crisis-elizabeth-chiarello/), 2025, *LSE Review of Books*
 * [*Making Information Matter: Understanding Surveillance and Making a Difference* by Mareile Kaufmann](https://blogs.lse.ac.uk/lsereviewofbooks/2024/07/11/book-review-making-information-matter-understanding-surveillance-and-making-a-difference-mareile-kaufmann/), 2024, *LSE Review of Books*
 * [*Cut/Copy/Paste: Fragments from the History of Bookwork* by Whitney Trettien](https://blogs.lse.ac.uk/lsereviewofbooks/2022/06/23/book-review-cut-copy-paste-fragments-from-the-history-of-bookwork-by-whitney-trettien/), 2022, *LSE Review of Books*
 * [*Digital Democracy, Social Media and Disinformation* by Petros Iosifidis and Nicholas Nicoli](https://ijoc.org/index.php/ijoc/article/view/17607/3507), 2021, *International Journal of Communication*
@@ -32,7 +37,7 @@ title: writing
 * [*Predict and Surveil: Data, Discretion and the Future of Policing* by Sarah Brayne](https://blogs.lse.ac.uk/lsereviewofbooks/2020/11/05/book-review-predict-and-surveil-data-discretion-and-the-future-of-policing-by-sarah-brayne/), 2020, *LSE Review of Books*
 * [*Ctrl+Z: The  Right to  Be  Forgotten* by Meg Leta Jones](https://ojs.library.queensu.ca/index.php/surveillance-and-society/article/view/13995), 2020, *Surveillance and Society*
 * [*The Infographic: A History of Data Graphics in News and Communications* by Dick Murray](https://blogs.lse.ac.uk/lsereviewofbooks/2020/06/16/book-review-the-infographic-a-history-of-data-graphics-in-news-and-communications-by-murray-dick/), 2020, *LSE Review of Books*
-* [*Abolish Silicon Valley: How to Liberate Technology from Capitalism* by Wendy Liu](https://entropymag.org/abolish-silicon-valley-wendy-liu/), 2020, *Entropy Magazine*
+* [*Abolish Silicon Valley: How to Liberate Technology from Capitalism* by Wendy Liu](https://web.archive.org/web/20220516225034/https://entropymag.org/abolish-silicon-valley-wendy-liu/), 2020, *Entropy Magazine*
 * [*The Age of Surveillance Capitalism* by Shoshana Zuboff](https://blogs.lse.ac.uk/lsereviewofbooks/2019/11/04/book-review-the-age-of-surveillance-capitalism-the-fight-for-the-future-at-the-new-frontier-of-power-by-shoshana-zuboff/#comments), 2019, *LSE Review of Books*
 * [*Metric Culture: Ontologies of Self-Tracking Practices* edited by Btihaj Ajana](https://blogs.lse.ac.uk/lsereviewofbooks/2019/02/04/book-review-metric-culture-ontologies-of-self-tracking-practices-edited-by-btihaj-ajana/), 2018, *LSE Review of Books*
 * [*Revolting New York: How 400 Years of Riot, Rebellion, Uprising and Revolution Shaped a City* by Neil Smith and Don Mitchell et al](https://blogs.lse.ac.uk/lsereviewofbooks/2018/09/20/book-review-revolting-new-york-how-400-years-of-riot-rebellion-uprising-and-revolution-shaped-a-city-edited-by-neil-smith-et-al/), 2018, *LSE Review of Books*

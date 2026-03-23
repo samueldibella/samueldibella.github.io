@@ -41,6 +41,8 @@ title: editing
 
 
 ## magazines
+* *Cosmonaut*, content editor (2025)
+* *Washington Socialist*, Metro DC Democratic Socialists of America, managing editor (2024–25)
 * *New Model Adviser*, weekly financial trade magazine, copyediting and layout (2019–20)
 * *The Headless Society*, literary magazine, president & production editor (2011–15)
 * *Omnia*, literary magazine, editor and graphic design (2008–11)
